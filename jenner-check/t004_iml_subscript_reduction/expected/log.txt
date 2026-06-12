@@ -1,0 +1,10 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: PROC IML 
+
+
+NOTE: PROC IML elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds

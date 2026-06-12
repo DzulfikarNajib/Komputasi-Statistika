@@ -1,0 +1,11 @@
+
+  Obs       NAMA       NIM  JK  UMUR
+-----  ---------  --------  --  ----
+    1  Ali Imron  G1415001  1     18
+    2  Budianti   G1415002  2     21
+    3  Cece       G1415003  1     20
+    4  Ririn      G1415005  2     19
+    5  Dory       G1415006  2     22
+    6  Zain       G1415009  1     22
+    7  Dudin      G1415010  1     23
+

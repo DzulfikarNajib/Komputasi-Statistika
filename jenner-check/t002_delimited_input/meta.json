@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_delimited_input",
+  "source_file": "Pertemuan 1/Program 1 (1).sas",
+  "source_blob_sha": "65e9b9e1d634ed2eb7adcdbf65188e192f80d873",
+  "source_commit": "4b1f99c0234b695f8777e781840b1f34bbdd5327",
+  "tier": "real_data",
+  "notes": "Contoh 4 (the 'data lebih rapih' example): pipe-delimited INFILE DATALINES with LENGTH + TRUNCOVER, then PROC PRINT on _LAST_. The original 'rip' placeholder in column UMUR (a deliberate teaching typo for an age) was replaced with 18 so the column reads cleanly; all other data and the LENGTH/INFILE/INPUT logic kept verbatim. options obs=100 added in autoexec."
+}

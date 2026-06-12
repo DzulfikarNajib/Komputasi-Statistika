@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_datastep_print_means",
+  "source_file": "Pertemuan 1/Program 1 (1).sas",
+  "source_blob_sha": "65e9b9e1d634ed2eb7adcdbf65188e192f80d873",
+  "source_commit": "4b1f99c0234b695f8777e781840b1f34bbdd5327",
+  "tier": "real_data",
+  "notes": "Contoh 1 from the file: a basic numeric DATA step with inline DATALINES, then PROC PRINT and PROC MEANS that default to the most-recent dataset (_LAST_). Inline data and comments kept verbatim; only options obs=100 added in autoexec."
+}

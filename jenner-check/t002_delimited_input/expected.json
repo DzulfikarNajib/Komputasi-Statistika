@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-12T12:42:14.157454+00:00",
+  "_captured_run_id": "r_019ebbda6c8b7d618bd08de5c28c001e",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 5 rows from DATALINES.",
+    "NOTE: Wrote mhs2 (5 rows, 4 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

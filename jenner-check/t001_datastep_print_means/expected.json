@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-12T12:40:36.909879+00:00",
+  "_captured_run_id": "r_019ebbd8f09e7e13b9eac404684105e9",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 2 rows from DATALINES.",
+    "NOTE: Wrote contohdata (2 rows, 3 columns).",
+    "NOTE: PROC PRINT completed: 2 observations printed, 3 variables",
+    "NOTE: PROC MEANS statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
