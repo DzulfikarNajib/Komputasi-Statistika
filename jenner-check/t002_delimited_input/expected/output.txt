@@ -1,0 +1,9 @@
+
+  Obs       NAMA      NIM  JK  UMUR
+-----  ---------  -------  --  ----
+    1  Ali Imron  M040121  1     18
+    2  Sri        M040123  1     20
+    3  Wawan      M040126  2     19
+    4  Doni       M040128  2     19
+    5  Udin       M040129  2     19
+

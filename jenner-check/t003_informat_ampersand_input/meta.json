@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_informat_ampersand_input",
+  "source_file": "Pertemuan 1/Program 1-Contoh 2.sas",
+  "source_blob_sha": "41274e2fa5ea0b4e172bfdee33aa7e2afdb03aee",
+  "source_commit": "4b1f99c0234b695f8777e781840b1f34bbdd5327",
+  "tier": "real_data",
+  "notes": "SOLUSI 2 block: list input using the & format-modifier with an informat ('nama & $20.') so a name containing an embedded blank is read into one field. The original 'rip' placeholder in UMUR (a teaching typo) replaced with 18; all INPUT/informat logic kept verbatim. options obs=100 added in autoexec."
+}

@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_iml_subscript_reduction",
+  "source_file": "Pertemuan 2/Progam 2.sas",
+  "source_blob_sha": "f743db3c51adf4d29e7f21fd0a03c3ea1f3f86af",
+  "source_commit": "4b1f99c0234b695f8777e781840b1f34bbdd5327",
+  "tier": "real_data",
+  "notes": "The 'operator reduksi subskrip' PROC IML block: subscript reduction operators on matrix K -- sum across selected rows (K[{3 4},+]), column sums (K[+,{1,3}]), row selection (K[{1 2},]), max-reduction (K[+,<>]), and grand mean (K[:]) -- with RESET PRINT. Logic kept verbatim; trimmed to the reduction operators that produce stable output. options obs=100 added in autoexec."
+}

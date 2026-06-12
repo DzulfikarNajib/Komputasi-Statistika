@@ -1,0 +1,8 @@
+{
+  "bundle": "t005_iml_reshape_transpose",
+  "source_file": "Pertemuan 2/Progam 2.sas",
+  "source_blob_sha": "f743db3c51adf4d29e7f21fd0a03c3ea1f3f86af",
+  "source_commit": "4b1f99c0234b695f8777e781840b1f34bbdd5327",
+  "tier": "real_data",
+  "notes": "The three PROC IML reshape/concatenate/transpose blocks: SHAPE() to reshape a 2x3 matrix into a row vector and 2x3/3x2 forms, vertical concatenation (//), horizontal concatenation (||), and transpose (`). Logic and Indonesian comments kept verbatim. options obs=100 added in autoexec."
+}
